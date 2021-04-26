@@ -1,5 +1,5 @@
 # Praktikum Alpro
- Kumpulan Source Code Praktikum Alpro Semester 1
+ Kumpulan Source Code Praktikum Alpro Semester 2
 
  Terdiri dari Beberapa program, yakni
 
